@@ -3,7 +3,7 @@ import Link from "next/link";
 import DesktopLogo from "../../public/airbnb-desktop.png";
 import MobileLogo from "../../public/airbnb-mobile.webp";
 import UserNav from "./UserNav";
-//CONTINUE 21:28
+//CONTINUE 50:19
 //import { SearchModalCompnent } from "./SearchComponent";
 
 export function Navbar() {

@@ -1,10 +1,11 @@
 import { Button } from "@/components/ui/button";
 import React from "react";
+import { MapFilterItems } from "./components/MapFilterItems";
 
-export default function page() {
+export default function Home() {
   return (
-    <div>
-      <Button>Hello</Button>
+    <div className="container mx-auto px-5 lg:px-10">
+      <MapFilterItems />
     </div>
   );
 }
